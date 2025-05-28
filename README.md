@@ -13,40 +13,29 @@ Odoo WebDev Call Center Analytics ETL Pipelines
 
 💼 Professional Highlights
 Data Analyst @ Discovery Ambulance
-
 Built real-time analytics for call center ops, boosting responsiveness.
-
 Designed dashboards and ERP systems to streamline business intelligence.
 
 Product Officer @ Econet Wireless
-
+Reporting and Analysis to the board
 +27% revenue growth via tech integration and data-driven strategies.
-
 Reduced customer churn by 2.6% through targeted analytics.
 
-Sales Consultant
-
-Achieved 93% retention rate by leveraging customer insights.
 
 🌱 Current Focus
 Advancing skills in machine learning and cloud-based data engineering (AWS/GCP).
 
 Contributing to open-source data projects.
 
-📊 GitHub Stats
-Your GitHub Stats
 
 📫 Connect With Me
 ✉️ Email: tafgede@gmail.com
-
 📱 Mobile: +974 7208 6392 (Qatar)
-
-💼 LinkedIn: [Add LinkedIn URL if available]
+💼 LinkedIn: https://www.linkedin.com/in/tafadzwa-ronald-gede-848b1066/
 
 🚀 Featured Projects
-(Customize with links to your repositories!)
 
-Call Center Analytics Dashboard
+Analytics Dashboard
 
 Revenue Growth Predictor
 
